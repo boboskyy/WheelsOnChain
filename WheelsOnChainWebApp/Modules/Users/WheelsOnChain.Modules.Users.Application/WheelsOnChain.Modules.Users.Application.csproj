@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>WheelsOnChain.Modules.Users.Application</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Shared\WheelsOnChain.Shared\WheelsOnChain.Shared.csproj" />
+    <ProjectReference Include="..\WheelsOnChain.Modules.Users.Domain\WheelsOnChain.Modules.Users.Domain.csproj" />
+    <ProjectReference Include="..\WheelsOnChain.Modules.Users.Shared\WheelsOnChain.Modules.Users.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

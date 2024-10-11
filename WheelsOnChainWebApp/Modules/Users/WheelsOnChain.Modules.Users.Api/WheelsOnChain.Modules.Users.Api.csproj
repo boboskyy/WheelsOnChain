@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>WheelsOnChain.Modules.Users.Api</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WheelsOnChain.Modules.Users.Application\WheelsOnChain.Modules.Users.Application.csproj" />
+    <ProjectReference Include="..\WheelsOnChain.Modules.Users.Infrastructure\WheelsOnChain.Modules.Users.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

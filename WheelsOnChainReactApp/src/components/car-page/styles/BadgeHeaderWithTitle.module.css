@@ -1,0 +1,4 @@
+.card {
+  background-color: light-dark(var(--badge), var(--badge));
+  color: white;
+}
