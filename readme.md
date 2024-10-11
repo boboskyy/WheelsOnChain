@@ -13,7 +13,7 @@ WheelsOnChain is a blockchain-based (PoC) application designed to securely store
 - [Technology Stack](#technology-stack)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Note](#note)
 - [License](#license)
 
 ## Introduction
@@ -156,9 +156,6 @@ To run this project locally, follow these steps:
 
 ## Note
 I'm not primarily a frontend developer, and the frontend has many flaws. It should be considered as a **Proof of Concept (PoC)** rather than a production-ready interface.
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements. Ensure your code adheres to the project's coding standards and includes relevant tests.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
