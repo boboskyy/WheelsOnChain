@@ -3,6 +3,8 @@
 
 WheelsOnChain is a blockchain-based (PoC) application designed to securely store and track the history of vehicles. Utilizing Ethereum smart contracts, this system provides immutable, transparent, and trustworthy records of vehicle modifications, inspections, and ownership details. The project consists of three main components: a Solidity smart contract for blockchain storage, a .NET backend for trusted address management, and a React-based frontend for interacting with the system.
 
+![Car view](assets/car_view.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Key Features](#key-features)
@@ -137,8 +139,6 @@ To run this project locally, follow these steps:
 
 ## Application
 ![App landing page](assets/landing.png)
-
-![Car view](assets/car_view.png)
 
 ![Add car view](assets/add_car.png)
 
